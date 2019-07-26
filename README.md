@@ -1,6 +1,4 @@
-## [서비스]
-
-### [트렌드그램 Trendgram](http://trendgram.util.kr)
+## [트렌드그램 Trendgram](http://trendgram.util.kr)
 
 사진으로 보는 실시간 트렌드
 
@@ -10,7 +8,7 @@
 
 ---
 
-### [모두의 대자보](https://daejabo.util.kr/)
+## [모두의 대자보](https://daejabo.util.kr/)
 
 온라인 대자보 공유 서비스
 
@@ -20,7 +18,7 @@
 
 ---
 
-### [한국어 맞춤법 검사기](https://chrome.google.com/webstore/detail/%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0/jglndaljomjcobaaoohfccecjcekcfgo?hl=ko)
+## [한국어 맞춤법 검사기](https://chrome.google.com/webstore/detail/%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0/jglndaljomjcobaaoohfccecjcekcfgo?hl=ko)
 
 크롬 브라우저에서 손쉽게 맞춤법을 검사할 수 있는 확장 프로그램
 
@@ -34,7 +32,7 @@
 
 ---
 
-### [키즈노트 사진/동영상 다운로더](https://chrome.google.com/webstore/detail/%ED%82%A4%EC%A6%88%EB%85%B8%ED%8A%B8%EC%97%90%EC%84%9C-%EC%82%AC%EC%A7%84%EB%8F%99%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%9B%EA%B8%B0/dglhbebhfdidbfoeknnfghdbleecgopl)
+## [키즈노트 사진/동영상 다운로더](https://chrome.google.com/webstore/detail/%ED%82%A4%EC%A6%88%EB%85%B8%ED%8A%B8%EC%97%90%EC%84%9C-%EC%82%AC%EC%A7%84%EB%8F%99%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%9B%EA%B8%B0/dglhbebhfdidbfoeknnfghdbleecgopl)
 
 키즈노트에서 사진을 일괄다운로드 할 수 있는 크롬 브라우저 확장 프로그램
 
@@ -48,7 +46,7 @@
 
 ---
 
-### [부천시 사회복지시설 지도](https://bsm.util.kr/)
+## [부천시 사회복지시설 지도](https://bsm.util.kr/)
 
 부천시에 있는 사회복지시설을 각 카테고리별로 지도에 표시해주는 서비스
 
@@ -58,7 +56,7 @@
 
 ---
 
-### [직장인을 위한 뉴스 보기 서비스](http://http://trends.util.kr)
+## [직장인을 위한 뉴스 보기 서비스](http://http://trends.util.kr)
 
 일하는 것처럼 뉴스를 볼 수 있는 서비스
 
@@ -68,7 +66,7 @@
 
 ---
 
-### [직장인을 위한 주가 확인 서비스](http://http://stock.util.kr)
+## [직장인을 위한 주가 확인 서비스](http://http://stock.util.kr)
 
 일하면서 주가를 확인할 수 있는 서비스
 
@@ -78,7 +76,7 @@
 
 ---
 
-### [람다그램 lambdagram](https://pypi.org/project/lambdagram/)
+## [람다그램 lambdagram](https://pypi.org/project/lambdagram/)
 
 람다그램은 텔레그램의 공식 API를 이용해 서버없이 AWS lambda에서 챗봇을 쉽게 만들 수 있도록 도와주는 라이브러리입니다.
 
@@ -88,9 +86,11 @@
 
 ---
 
-## [글쓰기]
+## -----------------
 
-### [테크니들 필진 활동](https://blog.jwgo.kr/non-personal-writing)
+---
+
+## [테크니들 필진 활동](https://blog.jwgo.kr/non-personal-writing)
 
 실리콘밸리의 소식을 한국어로 번역해 전하는 테크니들의 필진으로 활동했었습니다. 이 글은 zum.com의 허브줍에도 함께 게재되기도 했습니다.
 
@@ -98,7 +98,7 @@
 
 ---
 
-### [ㅍㅍㅅㅅ 필진 활동](https://www.google.com/search?q=%EB%A1%9C%EB%94%94%EC%95%84+site%3Appss.kr&oq=%EB%A1%9C%EB%94%94%EC%95%84+site%3Appss.kr&aqs=chrome..69i57.95984j0j1&sourceid=chrome&ie=UTF-8)
+## [ㅍㅍㅅㅅ 필진 활동](https://www.google.com/search?q=%EB%A1%9C%EB%94%94%EC%95%84+site%3Appss.kr&oq=%EB%A1%9C%EB%94%94%EC%95%84+site%3Appss.kr&aqs=chrome..69i57.95984j0j1&sourceid=chrome&ie=UTF-8)
 
 ㅍㅍㅅㅅ 에서 연락이 와 브런치의 글을 ㅍㅍㅅㅅ에 게재할 수 있도록 허락하는 방식으로 필진활동을 했었습니다. 지금은 브런치를 없애고 개인 워드프레스 블로그 운영으로 바꾸어서 ㅍㅍㅅㅅ에는 더 글이 올라가지 않지 않을까 생각합니다.
 
