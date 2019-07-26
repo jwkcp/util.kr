@@ -86,21 +86,17 @@
 
 ---
 
+## -
+
+---
+
 ## [테크니들 필진 활동](https://blog.jwgo.kr/non-personal-writing)
 
 실리콘밸리의 소식을 한국어로 번역해 전하는 테크니들의 필진으로 활동했었습니다. 이 글은 zum.com의 허브줍에도 함께 게재되기도 했습니다.
 
+테스트
+
 > <img src="./img/techneedle.png" width="100%" />
-
----
-
-## [람다그램 lambdagram](https://pypi.org/project/lambdagram/)
-
-람다그램은 텔레그램의 공식 API를 이용해 서버없이 AWS lambda에서 챗봇을 쉽게 만들 수 있도록 도와주는 라이브러리입니다.
-
-웹훅(Webhook)을 지원하며 [PYPI](https://pypi.org/project/lambdagram/)에도 올라가있어 누구나 `pip install lambdagram`으로 다운로드 받을 수 있습니다. [깃허브](https://github.com/jwkcp/lambdagram)에서 소스를 볼 수 있고 외국에서도 사용할 가능성(?)이 있을 것 같아 README는 영어로 작성했습니다.
-
-> <img src="./img/lambdagram.png" width="100%" />
 
 ---
 
