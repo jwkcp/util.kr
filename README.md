@@ -2,12 +2,11 @@
 
 Colons can be used to align columns.
 
-<!-- prettier-ignore -->
 | Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| --------------- | --------------- | -------------- |
+| ambrosia        | gala            | red delicious  |
+| pink lady       | jazz            | macintosh      |
+| honeycrisp      | granny smith    | fuji           |
 
 <!-- prettier-ignore -->
 | Tables        | Are           | Cool  |
