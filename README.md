@@ -18,6 +18,16 @@
 
 ---
 
+## 리더블
+
+컨텐츠 판매 서비스
+
+네이버 스마트 스토어를 통해 직접 쓴 글을 PDF로 판매하여 수익을 만드는 서비스. 블로그에서 인기 글을 PDF형태로 만들어 스마트 스토어에서 판매해 보았다. 약 20개 판매에 성공했으나 지속적으로 만족도 높은 글을 판매하지 못해 잠정 중단. 현재는 관련 글을 [이곳](https://blog.jwgo.kr)에 쓰고 있지만 언젠가는 다시 시작할 서비스  
+ 
+> <img src="./img/readable.png" width="100%" />
+
+---
+
 ## [한국어 맞춤법 검사기](https://chrome.google.com/webstore/detail/%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0/jglndaljomjcobaaoohfccecjcekcfgo?hl=ko)
 
 크롬 브라우저에서 손쉽게 맞춤법을 검사할 수 있는 확장 프로그램
