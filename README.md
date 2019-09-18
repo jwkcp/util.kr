@@ -90,7 +90,7 @@
 
 ---
 
-## [프리뷰카드] preview-card](https://pypi.org/project/preview-card/)
+## [프리뷰카드 preview-card](https://pypi.org/project/preview-card/)
 
 **프리뷰카드**는 트위터나 페이스북의 뉴스피드와 같이 글에 포함된 URL의 미리보기를 카드 형태로 보여줄 수 있도록 도와주는 라이브러리입니다. URL이 포함된 평문을 넣으면 카드 형태를 만들 수 있도록 대표이미지, 제목, 요약문장 등의 데이터를 분석하여 리턴하며 유튜브 URL의 경우 iframe으로 embed 가능한 형태의 URL을 리턴합니다.
 
